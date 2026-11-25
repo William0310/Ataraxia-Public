@@ -1,4 +1,13 @@
 {
   "schemaVersion": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "temporary-test-2026-11-25",
+      "type": "information",
+      "title": "Temporary test: please ignore",
+      "body": "This notice checks that announcements reach Ataraxia. It will be withdrawn shortly.",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "dismissible": true
+    }
+  ]
 }
