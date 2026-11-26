@@ -16,6 +16,16 @@
       "body": "Please make sure you have updated to V1.3.0(126) for best experience.",
       "publishedAt": "2026-11-26T06:29:20Z",
       "dismissible": true
+    },
+    {
+      "id": "2026-11-26-extension-support",
+      "type": "release",
+      "title": "Extension Support",
+      "body": "Ataraxia now supports extension! Woohoo!",
+      "publishedAt": "2026-11-26T07:42:48Z",
+      "minimumVersion": "1.3.0",
+      "maximumVersion": "1.4.0",
+      "dismissible": true
     }
   ]
 }
